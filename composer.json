@@ -1,0 +1,19 @@
+{
+    "name": "asifmuztaba1/laravel-seer",
+    "description": "This is a package to monitor external api calls",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Asifmuztaba1\\LaravelSeer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "asifmuztaba1",
+            "email": "amuztaba18@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
